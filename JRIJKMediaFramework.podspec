@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'http://git.ym/iOS_Common_Module/YMIJKMediaFramework'
+  s.homepage         = 'https://github.com/MrQiuHaHa/JRIJKMediaFramework'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'qiujr' => '2574282239@qq.com' }
-  s.source           = { :git => 'http://git.ym/iOS_Common_Module/YMIJKMediaFramework.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/MrQiuHaHa/JRIJKMediaFramework.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, "10.0"
