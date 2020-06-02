@@ -4,7 +4,10 @@
 
 ` 当前静态库内部的FFmpeg版本已经升级到了4.0版本， 支持arm64，armv7，i386，x86架构`
 
-## 注意事项：因为github对单文件超过100MB的限制上传，我使用了git-lfs才上传上去，所以要clone下来也需要安装git-lfs
+## 注意事项：
+> 因为github对单文件超过100MB的限制上传，而IJKMediaFramework超过了100MB
+> 我使用了git-lfs才上传上去，所以要clone下来也需要安装git-lfs
+
 ```
 brew install git-lfs
 # 在你要引入的项目目录下
