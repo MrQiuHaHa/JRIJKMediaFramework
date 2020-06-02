@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JRIJKMediaFramework'
-  s.version          = '0.2.5'
+  s.version          = '0.2.6'
   s.summary          = '增加一个可以外部自己灵活输入ffmpeg语法的调用方法'
 
 # This description is used to generate tags and improve search results.
